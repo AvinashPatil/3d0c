@@ -1,0 +1,8 @@
+Three methods
+
+1. Include exclude - Use for combinations, subsets etc.
+2. Use bit method for this as well. Just we can ot use more than 64 elements in set. But this method is fast.
+
+3. Permute a string. Check program for it.
+4. If we use for-loop-recusion method instead then it will have duplicate characters. Use this method in e.g. phonebook where it is allowed. Also consider this method when you know the bounds.
+

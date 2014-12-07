@@ -1,0 +1,12 @@
+1. mid operation in O(1) in stack.
+
+7. Most frequent k words in a file.
+
+3. Stream numbers is coming find the median.
+4. remove adjacent duplicates from a string.
+
+7. Create a matrix with alternating rectangles of O and X
+8. word break problem
+9. area under histogram
+
+
